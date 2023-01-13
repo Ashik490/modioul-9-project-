@@ -4,7 +4,8 @@
 .banner-bg{
     background-color: #fceae8;
     border-radius: 5%;
-    border: ;
+    background-image: url(img/bg-1.png);
+    background-image: url(img/bg-2.png)
     
 }
 .carousel-item{
@@ -22,4 +23,45 @@
     padding: 9px 20px;
     border: none;
     cursor: pointer;
+}
+
+.cat1{
+    background-color: orange;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat2{
+    background-color: rgb(201, 0, 181);
+    padding: 10px 50px;
+    border-radius: 10px;
+
+
+}
+.cat3{
+    background-color: blue;
+    padding: 10px  50px;
+    border-radius: 10px;
+}
+.taxt{
+    color: white;
+}
+.container img{
+    width: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 10px 10px lightgrey;
+}
+.navbar{
+    background-color: lightblue;
+}
+#Subscribe{
+    background-color:#fceae8 ;
+    height: 300px;
+    border-radius: 10px;
+    background-image: url(img/bg-2.png);
+}
+marquee{
+    background-color: goldenrod;
+    color: white;
 }
